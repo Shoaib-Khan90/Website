@@ -50,9 +50,7 @@ button{
 
 .btn{
     text-align: center;
-    padding: 5px;
     font-size: 15px;
-    
 }
 
 button:hover{
@@ -114,3 +112,162 @@ left: 85px;
     font-size: 35px;
     margin-top: 10px;
 }
+
+.display{
+    display: flex;
+
+}
+.shape{
+        width: 450px;
+        margin: 450px;
+        margin-left: 100px;
+        padding-left: 10px;
+}
+
+#right{
+    display:flex;
+    border-radius: 10px;
+    position: absolute;
+    margin: 400px;
+    left:400px;
+}
+
+.s{
+    display: flex;
+}
+
+.a{
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+.text{
+    margin-left: 50px;
+    padding: 10px;
+    width: 450px;
+}
+
+.c{
+    padding-left: 15px;
+    width: 450px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+#icon{
+    margin-top: 70px;
+    color: lightgray;
+    font-size: 25px;
+}
+
+#icon:hover{
+    color: blue;
+}
+
+.d{
+display: flex;
+}
+
+.e{
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.fa-regular{
+            font-size: 25px;
+            margin-right: 10px;
+            color: lightgray;
+}
+
+.f{
+      width: 450px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.A{
+    border: 1px solid black;
+    background:#23242A;
+    width:1000px;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-top: 200px;
+    display: flex;
+}
+
+.h{
+    width: 500px;
+    color: white;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.btn1{
+    margin-top: 80px;
+    margin-left: 250px;
+    border-radius: 10px;
+}
+
+.B{
+    margin-top: 200px;
+    margin-left: 200px;
+    display: flex;
+}
+
+.i{
+    width: 700px;
+}
+
+.j{
+    margin-top: 10px;
+    margin-left: 190px;
+    color: blue;
+}
+
+.arrow{
+    color: blue;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.maindiv{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    width: 1150px;
+    margin-left: 180px;
+}
+
+.div1{
+    border: 3px solid lightgray;
+    width: 350px;
+    height: 320px;
+    margin-left: 10px;
+    padding: 25px;
+}
+
+.ex{
+    border: 1px solid wheat;
+    margin-top: 100px;
+    font-size: 25px;
+    width: 350px;
+    padding: 15px;
+    margin-left: -28px;
+    color: lightgray;
+}
+
+.ex:hover{
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
