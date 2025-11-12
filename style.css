@@ -439,7 +439,7 @@ display: flex;
          margin-left: 400px;
 }
 
-@media (min-width:430px) {
+@media (max-width:600px) {
 
      *{
     margin: 0%;
@@ -885,7 +885,7 @@ display: flex;
 }
 }
 
-@media  (max-width:785px) {
+@media  (max-width:900px) {
 
     *{
     margin: 0%;
